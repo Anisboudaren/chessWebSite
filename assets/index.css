@@ -5,4 +5,15 @@
 .opening-div {
     position: static;
 }
+.board{
+    float: right;
+    margin-right: 200px;
+}
+.game{
+padding-top: 100px;
+}
+#board2{
+    margin: auto;
+    
+}
 
