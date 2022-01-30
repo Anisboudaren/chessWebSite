@@ -28,6 +28,20 @@ h1{
         color: white;
         font-size: 50px;
     }
+     .opening-div {
+        position: relative;
+        height: 500px;
+        margin-left: 250px;
+        overflow-x: auto;
+        right: 100px;
+    }
+    .ending-div {
+        position: relative;
+        height: 500px;
+        margin-left: 250px;
+        overflow-x: auto;
+        right: 100px;
+    }
     
    
 }
